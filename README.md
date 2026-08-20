@@ -98,3 +98,4 @@ Possible improvements include:
 * Adding additional game modes
 * Creating a graphical interface
 * Tracking more detailed statistics
+* Utilize pointers and more advanced features
