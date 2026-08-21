@@ -64,6 +64,11 @@ After each game, you can choose whether to play again. If you choose `N`, the pr
 * Best game
 * Worst game
 
+## Demo Video
+(My number was 23)
+
+https://github.com/user-attachments/assets/44937848-4527-4112-8bd4-979c4aa9f1d0
+
 ## What I Learned
 
 This project helped me practice:
