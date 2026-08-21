@@ -31,9 +31,7 @@ Based on the response, the computer adjusts its search boundaries and makes the 
 You need a C compiler installed on your system, such as GCC or Clang.
 
 ### Compilation and Running
-
-Open Terminal and navigate into the downloaded project folder.
-
+Download the repository as a ZIP from GitHub and extract it. Open Terminal and navigate into the downloaded project folder. 
 If the folder is in your Downloads folder, run:
 
 ```bash
