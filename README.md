@@ -40,12 +40,16 @@ cd ~/Downloads/Computer-Number-Guesser-main
 
 If the folder has a different name, replace `Computer-Number-Guesser-main` with the actual folder name.
 
-From inside the project folder, run this command to compile and launch the game automatically:
+From inside the project folder, run these commands to compile and launch the game automatically:
 
 ```bash
-gcc src/number_guesser.c -o number_guesser && ./number_guesser
+gcc src/number_guesser.c -o number_guesser
 ```
+Followed by 
 
+``` bash
+./number_guesser
+```
 ## Play the Game
 
 The program will start in your terminal.
