@@ -32,13 +32,6 @@ You need a C compiler installed on your system, such as GCC or Clang.
 
 ### Compilation and Running
 Download the repository as a ZIP from GitHub and extract it. Open Terminal and navigate into the downloaded project folder. 
-If the folder is in your Downloads folder, run:
-
-```bash
-cd ~/Downloads/Computer-Number-Guesser-main
-```
-
-If the folder has a different name, replace `Computer-Number-Guesser-main` with the actual folder name.
 
 From inside the project folder, run these commands to compile and launch the game automatically:
 
